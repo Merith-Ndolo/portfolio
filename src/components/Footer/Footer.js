@@ -26,10 +26,6 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href={"tel:+33755780388"}>07 55 78 03 88</LinkItem>
-        </LinkColumn>
-        <LinkColumn>
           <LinkTitle>Chat</LinkTitle>
           <LinkItem href="https://t.me/Armani113">Telegram</LinkItem>
         </LinkColumn>
