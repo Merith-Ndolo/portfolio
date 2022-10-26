@@ -17,7 +17,7 @@ const Hero = (props) => (
         <SectionTitle main center>
           Hey salut,
         </SectionTitle>
-        <div style={{ fontSize: "24px", marginBottom: "5px" }}>
+        <div style={{ fontSize: "24px", marginBottom: "6px" }}>
           <TypingEffect
             staticText="Je suis"
             text={[
