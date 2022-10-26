@@ -31,8 +31,14 @@ const Hero = (props) => (
         </div>
 
         <SectionText>
-          Développeur Full Stack autodicate et diplômé d'un Mastère CTO & Tech
-          Lead de l'école{" "}
+          Développeur Full Stack autodicate et diplômé d'un{" "}
+          <a
+            href="https://www.hetic.net/formations/mastere-cto-tech-lead"
+            style={{ color: "#13ADC7" }}
+          >
+            Mastère CTO & Tech Lead
+          </a>{" "}
+          de l'école{" "}
           <a href="hetic.net" style={{ color: "#13ADC7" }}>
             HETIC
           </a>{" "}
