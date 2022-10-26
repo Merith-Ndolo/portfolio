@@ -31,7 +31,22 @@ const Hero = (props) => (
         </div>
 
         <SectionText>
-          Le plaisir dans le métier met la perfection dans le travail "Aristote"
+          Développeur Full Stack autodicate et diplômé d'un Mastère CTO & Tech
+          Lead de l'école{" "}
+          <a href="hetic.net" style={{ color: "#13ADC7" }}>
+            HETIC
+          </a>{" "}
+          ayant plus de 2 ans d'experience, je peux contribuer à la réalisation
+          de vos sites, pages et applications à l'aide de ma connaissance du
+          développement front-end et back-end. Aussi porté vers le métier de{" "}
+          <a
+            href="https://azure.microsoft.com/fr-fr/resources/cloud-computing-dictionary/what-is-devops/"
+            style={{ color: "#13ADC7" }}
+          >
+            DevOps
+          </a>
+          , le déploiement et la gestion de la montée en charge de vos sites
+          font aussi partie de mes domaines d'expertise.
         </SectionText>
 
         <Button
