@@ -25,7 +25,7 @@ const Hero = (props) => (
               "développeur",
               "fullstack",
               "autodidacte",
-              "diplômé Bac+5 informatique",
+              "diplômé Bac+5",
             ]}
           />
         </div>
