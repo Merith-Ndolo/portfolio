@@ -39,7 +39,7 @@ const Hero = (props) => (
             Mastère CTO & Tech Lead
           </a>{" "}
           de l'école{" "}
-          <a href="hetic.net" style={{ color: "#13ADC7" }}>
+          <a href="https://www.hetic.net/" style={{ color: "#13ADC7" }}>
             HETIC
           </a>{" "}
           ayant plus de 2 ans d'experience, je peux contribuer à la réalisation
