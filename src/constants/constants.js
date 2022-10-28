@@ -2,9 +2,9 @@ export const projects = [
   {
     title: "Ma-tarou e-commerce",
     description:
-      "Site de commerce développée en freelance. Elle est maintenue par d'autres dev",
+      "Site de commerce développée en freelance. Pour des raisons de manque de disponibilité, La maintenance est assurée par d'autres devs",
     image: "/images/ma-tarou.png",
-    tags: ["WordPress", "WooCommerce", "Stripe", "MySQL"],
+    tags: ["WordPress", "WooCommerce", "MySQL"],
     source: "https://github.com/Merith-Ndolo/ma-tarou",
     visit: "https://ma-tarou.com/",
     id: 0,
@@ -87,7 +87,8 @@ export const projects = [
   },
   {
     title: "Calculatrice RTT",
-    description: "",
+    description:
+      "Petite app pour vous aider à estimer vos RTT (waring: l'affiche est non responsive)",
     image: "/images/rtt.png",
     tags: ["Jquery", "HTML/CSS"],
     source: "https://github.com/Merith-Ndolo/calcul_rtt",
