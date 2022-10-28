@@ -88,7 +88,7 @@ export const projects = [
   {
     title: "Calculatrice RTT",
     description:
-      "Petite app pour vous aider à estimer vos RTT (waring: l'affiche est non responsive)",
+      "Petite app pour vous aider à estimer vos RTT (waring: l'app est non responsive)",
     image: "/images/rtt.png",
     tags: ["Jquery", "HTML/CSS"],
     source: "https://github.com/Merith-Ndolo/calcul_rtt",
