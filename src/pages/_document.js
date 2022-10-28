@@ -39,13 +39,13 @@ export default class MyDocument extends Document {
           <meta name="title" content="Merith NDOLO - Fullstack Dev" />
           <meta
             name="description"
-            content="Hey there, This is Vipul Jha aka lordarcadius. I am an Android & Flutter developer who also works on ROMs, Kernels, & Scripts."
+            content="Hey salut, je suis Merith NDOLO dev full stack pour des apps web, mobiles et desktop. J'ai aussi de l'expertise sur des tâches de DevOps"
           />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Merith NDOLO - Fullstack Dev" />
           <meta
             property="og:description"
-            content="Hey there, This is Vipul Jha aka lordarcadius. I am an Android & Flutter developer who also works on ROMs, Kernels, & Scripts."
+            content="Hey salut, je suis Merith NDOLO dev full stack pour des apps web, mobiles et desktop. J'ai aussi de l'expertise sur des tâches de DevOps"
           />
         </Head>
         <body>
