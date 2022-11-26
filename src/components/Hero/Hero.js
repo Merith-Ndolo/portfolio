@@ -31,7 +31,7 @@ const Hero = (props) => (
         </div>
 
         <SectionText>
-          Développeur Full Stack autodicate et diplômé d'un{" "}
+          Développeur Full Stack autodidacte et diplômé d'un{" "}
           <a
             href="https://www.hetic.net/formations/mastere-cto-tech-lead"
             style={{ color: "#13ADC7" }}
