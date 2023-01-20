@@ -51,7 +51,7 @@ export const projects = [
     title: "Atypikhouse location",
     description: "",
     image: "/images/house.jpg",
-    tags: ["Shell", "Busybox"],
+    tags: ["React", "Nodejs", "MongoDB"],
     source: "https://github.com/Merith-Ndolo/atypikhouse_react_version",
     visit: "",
     id: 2,
@@ -62,8 +62,7 @@ export const projects = [
     image: "/images/mobile_app.jpeg",
     tags: ["Flutter", "Firebase"],
     source: "#",
-    visit:
-      "https://forum.xda-developers.com/t/app-port-6-0-lenovo-snapit-camera-5-8-53-for-all-devices.3608065/",
+    visit: "https://github.com/Merith-Ndolo",
     id: 3,
   },
   {
@@ -72,8 +71,7 @@ export const projects = [
     image: "/images/mobile_app.jpeg",
     tags: ["Flutter", "NodeJs", "Firebase"],
     source: "#",
-    visit:
-      "https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/",
+    visit: "https://github.com/Merith-Ndolo",
     id: 3,
   },
   {
