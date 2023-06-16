@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Ma-tarou e-commerce",
-    description: "Site de commerce développée en freelance",
+    description: "Site de commerce développé en freelance",
     image: "/images/ma-tarou.png",
     tags: ["WordPress", "WooCommerce", "MySQL"],
     source: "https://github.com/Merith-Ndolo/ma-tarou",
