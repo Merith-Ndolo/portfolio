@@ -105,7 +105,7 @@ export const TimeLineData = [
     text: "Développeur web chez IT-TECH à Brazzaville",
   },
   { year: 2019, text: "Développeur web chez IT-TECH à Brazzaville" },
-  { year: 2021, text: "Stagiaire dev web et mobile chez BondAF" },
+  { year: 2021, text: "dev web et mobile chez BondAF" },
   { year: 2021, text: "Dev Freelance" },
-  { year: 2022, text: "Alternant Dev Full stack chez Blacksmith " },
+  { year: 2022, text: "Dev Full stack chez Blacksmith " },
 ];
