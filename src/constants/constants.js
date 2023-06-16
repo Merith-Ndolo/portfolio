@@ -108,4 +108,5 @@ export const TimeLineData = [
   { year: 2021, text: "dev web et mobile chez BondAF" },
   { year: 2021, text: "Dev Freelance" },
   { year: 2022, text: "Dev Full stack chez Blacksmith " },
+  { year: 2023, text: "Ingénieur Full stack chez Pivot&co " },
 ];
